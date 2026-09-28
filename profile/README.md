@@ -1,4 +1,4 @@
-## Cody's Shack Developer Storage
+## Cody's Shack Corporate Management
 You're probably looking for https://github.com/codys-shack. Head over there and you should be able to find what you need.
 
 <!--
